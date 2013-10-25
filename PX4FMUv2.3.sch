@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -10460,7 +10460,7 @@ Source: &lt;a href="http://www.hirose.co.jp/cataloge_hp/e53600014.pdf"&gt;http:/
 <part name="J302" library="con-hirose-df13" deviceset="DF13-4P-1.25" device="V" value="DF13C-4P-1.25V">
 <attribute name="PARTNO" value="DF13C-4P-1.25V(20)"/>
 </part>
-<part name="B601" library="pixhawk2" deviceset="MS621FE" device="">
+<part name="B601" library="pixhawk2" deviceset="MS621FE" device="" value="DO NOT PLACE">
 <attribute name="PARTNO" value="MS621FE-FL11E"/>
 </part>
 <part name="R608" library="pixhawk2" deviceset="RESISTOR" device="0402-RES" value="1K">
@@ -10944,13 +10944,13 @@ Source: &lt;a href="http://www.hirose.co.jp/cataloge_hp/e53600014.pdf"&gt;http:/
 <part name="U$2" library="pixhawk2" deviceset="LTC4117" device="" value="LTC4417">
 <attribute name="PARTNO" value="*"/>
 </part>
-<part name="U$3" library="pixhawk2" deviceset="MOSFET-DUAL-PCHANNEL" device="-CHIPFET">
+<part name="U$3" library="pixhawk2" deviceset="MOSFET-DUAL-PCHANNEL" device="-CHIPFET" value="NTHD4102P">
 <attribute name="PARTNO" value="*"/>
 </part>
-<part name="U$4" library="pixhawk2" deviceset="MOSFET-DUAL-PCHANNEL" device="-CHIPFET">
+<part name="U$4" library="pixhawk2" deviceset="MOSFET-DUAL-PCHANNEL" device="-CHIPFET" value="NTHD4102P">
 <attribute name="PARTNO" value="*"/>
 </part>
-<part name="U$5" library="pixhawk2" deviceset="MOSFET-DUAL-PCHANNEL" device="-CHIPFET">
+<part name="U$5" library="pixhawk2" deviceset="MOSFET-DUAL-PCHANNEL" device="-CHIPFET" value="NTHD4102P">
 <attribute name="PARTNO" value="*"/>
 </part>
 <part name="R1" library="pixhawk2" deviceset="RESISTOR" device="0402-RES" value="453K">
@@ -13206,9 +13206,6 @@ WARNING: DIFFERENT HW,
 SW COMPATIBLE</text>
 <text x="15.24" y="129.54" size="1.4224" layer="91">NOTE: place 10uF cap
 close to gyros</text>
-<text x="165.1" y="27.94" size="2.54" layer="98">PAGE SIGNOFF LM</text>
-<text x="78.486" y="34.29" size="1.778" layer="91">XXX CHECK DEN SIGNAL,
-NOT CLEAR IN CURRENT DATASHEET</text>
 <wire x1="5.08" y1="162.56" x2="5.08" y2="101.6" width="0.1524" layer="94" style="dashdot"/>
 <wire x1="5.08" y1="101.6" x2="127" y2="101.6" width="0.1524" layer="94" style="dashdot"/>
 <wire x1="127" y1="101.6" x2="127" y2="165.1" width="0.1524" layer="94" style="dashdot"/>
@@ -13693,8 +13690,6 @@ DO NOT stuff 3 with any of 1, 2 or 4</text>
 <sheet>
 <plain>
 <text x="165.1" y="17.78" size="2.1844" layer="94">Power source selector</text>
-<text x="55.88" y="60.96" size="1.778" layer="91">XXX RESISTOR VALUES HERE
-XXX ARE NOT CORRECT</text>
 </plain>
 <instances>
 <instance part="FRAME11" gate="G$1" x="0" y="0"/>

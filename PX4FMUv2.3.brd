@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -2180,7 +2180,7 @@ Source: &lt;a href="http://www.hirose.co.jp/cataloge_hp/e53600014.pdf"&gt;http:/
 <element name="J302" library="con-hirose-df13" package="DF13C-4P-1.25V" value="DF13C-4P-1.25V" x="42.672" y="34.7472" rot="MR270">
 <attribute name="PARTNO" value="DF13C-4P-1.25V(20)" x="42.672" y="34.7472" size="1.778" layer="28" rot="MR270" display="off"/>
 </element>
-<element name="B601" library="pixhawk2" package="MS621FE" value="MS621FE" x="18.8928" y="28.2704">
+<element name="B601" library="pixhawk2" package="MS621FE" value="DO NOT PLACE" x="18.8928" y="28.2704">
 <attribute name="MFGPN" value="MS621FE" x="18.8928" y="28.2704" size="1.778" layer="27" display="off"/>
 <attribute name="DATASHEET" value="http://speed.sii.co.jp/data/file_PRODUCT_MASTER_50112_TITLE_IMAGESP.pdf" x="18.8928" y="28.2704" size="1.778" layer="27" display="off"/>
 <attribute name="LINK" value="http://search.digikey.com/us/en/products/MS621FE-FL11E/728-1057-ND/1889208" x="18.8928" y="28.2704" size="1.778" layer="27" display="off"/>
@@ -2644,13 +2644,13 @@ Source: &lt;a href="http://www.hirose.co.jp/cataloge_hp/e53600014.pdf"&gt;http:/
 <element name="U$2" library="pixhawk2" package="MO-220" value="LTC4417" x="61.8744" y="33.3248">
 <attribute name="PARTNO" value="*" x="61.8744" y="33.3248" size="1.778" layer="27" display="off"/>
 </element>
-<element name="U$3" library="pixhawk2" package="1206-8" value="MOSFET-DUAL-PCHANNEL-CHIPFET" x="66.4464" y="36.6776" rot="R270">
+<element name="U$3" library="pixhawk2" package="1206-8" value="NTHD4102P" x="66.4464" y="36.6776" rot="R270">
 <attribute name="PARTNO" value="*" x="66.4464" y="36.6776" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U$4" library="pixhawk2" package="1206-8" value="MOSFET-DUAL-PCHANNEL-CHIPFET" x="66.4464" y="32.8168" rot="R270">
+<element name="U$4" library="pixhawk2" package="1206-8" value="NTHD4102P" x="66.4464" y="32.8168" rot="R270">
 <attribute name="PARTNO" value="*" x="66.4464" y="32.8168" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U$5" library="pixhawk2" package="1206-8" value="MOSFET-DUAL-PCHANNEL-CHIPFET" x="66.4464" y="29.0576" rot="R270">
+<element name="U$5" library="pixhawk2" package="1206-8" value="NTHD4102P" x="66.4464" y="29.0576" rot="R270">
 <attribute name="PARTNO" value="*" x="66.4464" y="29.0576" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="R1" library="pixhawk2" package="0402-RES" value="453K" x="56.896" y="36.1696">
