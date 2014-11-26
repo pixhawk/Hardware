@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="7.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -11989,8 +11989,8 @@ Source: RS Component / Phycomp</description>
 <part name="C1109" library="pixhawk2" deviceset="CAP" device="0402" value="10p/25V">
 <attribute name="PARTNO" value="C0402C100J3GACTU"/>
 </part>
-<part name="C1110" library="pixhawk2" deviceset="CAP" device="0402" value="1000p/25V">
-<attribute name="PARTNO" value="GRM1555C1E102JA01D"/>
+<part name="C1110" library="pixhawk2" deviceset="CAP" device="0402" value="10p/25V">
+<attribute name="PARTNO" value="C0402C100J3GACTU"/>
 </part>
 <part name="C615" library="pixhawk2" deviceset="CAP" device="0402" value="0u1">
 <attribute name="PARTNO" value="CC0402ZRY5V7BB104"/>
