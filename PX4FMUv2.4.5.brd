@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="7.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -1995,6 +1995,9 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 <autorouter>
 <pass name="Default">
 <param name="RoutingGrid" value="50mil"/>
+<param name="AutoGrid" value="1"/>
+<param name="Efforts" value="0"/>
+<param name="TopRouterVariant" value="1"/>
 <param name="tpViaShape" value="round"/>
 <param name="PrefDir.1" value="|"/>
 <param name="PrefDir.2" value="0"/>
@@ -2954,8 +2957,8 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 <element name="C1109" library="pixhawk2" package="0402-CAP" value="10p/25V" x="58.3184" y="33.2232" rot="R270">
 <attribute name="PARTNO" value="C0402C100J3GACTU" x="58.3184" y="33.2232" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C1110" library="pixhawk2" package="0402-CAP" value="1000p/25V" x="58.3184" y="30.5816" rot="R270">
-<attribute name="PARTNO" value="GRM1555C1E102JA01D" x="58.3184" y="30.5816" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="C1110" library="pixhawk2" package="0402-CAP" value="10p/25V" x="58.3184" y="30.5816" rot="R270">
+<attribute name="PARTNO" value="C0402C100J3GACTU" x="58.3184" y="30.5816" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C615" library="pixhawk2" package="0402-CAP" value="0u1" x="53.6448" y="13.8176" rot="R180">
 <attribute name="PARTNO" value="CC0402ZRY5V7BB104" x="53.6448" y="13.8176" size="1.778" layer="27" rot="R180" display="off"/>
