@@ -1,0 +1,10 @@
+Output: PCH Bill of Materials
+Type  : BOM
+From  : Variant [PCA_0007_PSM] of Project [PSM_REV_C.PrjPcb]
+   Generated File[PCH Bill of Materials-PSM_REV_C(PCA_0007_PSM).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:34:05 PM On 4/06/2015

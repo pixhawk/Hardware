@@ -1,0 +1,11 @@
+go to http://www.altium.com/altium-designer-viewer
+Register for your Free license.
+
+With this license you can use most features of altium within this file, ie, cross probing, viewing etc...
+
+To edit, you will need a licenced version of Altium.
+
+As the FMU is 8 layers, it cannot be made in the free version of Eagle... but I would be happy if someone 
+could help with the conversion to any other file formats.
+
+Please contact me by raising an issue here.
