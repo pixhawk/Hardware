@@ -1,6 +1,8 @@
 Hardware
 ========
 
+[![Join the chat at https://gitter.im/PX4/Hardware](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PX4/Hardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 PX4 Hardware designs
 
 Website at: http://pixhawk.org
