@@ -29,6 +29,35 @@ FMUv3 board (and IMUv3 + PSMv3 support components)
 
 The Pixhawk v2 Hardware is the result of a collaboration of the open hardware development community and 3D Robotics and has been designed in Altium.
 
+MindPX V2 Hardware
+===================
+
+MindPX V2 board (Hardware version:   v2.2)
+http://www.mindpx.net
+
+Product brief:
+http://www.mindpx.net/assets/accessories/brochure.pdf
+
+Hardware specification:
+http://www.mindpx.net/assets/accessories/Specification_MindPX.pdf
+
+User manual:
+http://www.mindpx.net/assets/accessories/UserGuide_MindPX.pdf
+
+Revisions against Pixhawk:
+
+1. 6 PWM distance sensors inputs
+2. 1 extra parallel I2C port (so can support external compass and px4flow simultaneously)
+3. Secondary USB port  for companion computer (converted from UART2 using onboard CP2104)
+4. exposed SWD debug port
+5. Built-in vibration dampening, support hard mount on air frames.
+6. removed in v2.2:
+        • Spektrum DSM / DSM2 / DSM-X® Satellite compatible input
+        • Futaba S.BUS® compatible input and output
+        • auxiliary outputs
+        • safety switch (moved to power distribution board as eSwitch)
+
+Note: MindPX v2.2 supports maximum 6 direct PWM outputs.
 
 
 Creative Commons License Disclaimer
