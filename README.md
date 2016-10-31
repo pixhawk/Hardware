@@ -33,33 +33,6 @@ MindPX V2 Hardware
 ===================
 http://www.mindpx.net
 
-MindPX V2 board (Hardware version:   v2.2)
-
-Product brief:
-http://www.mindpx.net/assets/accessories/brochure.pdf
-
-Hardware specification:
-http://www.mindpx.net/assets/accessories/Specification_MindPX.pdf
-
-User manual:
-http://www.mindpx.net/assets/accessories/UserGuide_MindPX.pdf
-
-Revisions against Pixhawk:
-
-1. 6 PWM distance sensors inputs
-2. 1 extra parallel I2C port (so can support external compass and px4flow simultaneously)
-3. Secondary USB port  for companion computer (converted from UART2 using onboard CP2104)
-4. exposed SWD debug port
-5. Built-in vibration dampening, support hard mount on air frames.
-6. removed in v2.2:
-        • Spektrum DSM / DSM2 / DSM-X® Satellite compatible input
-        • Futaba S.BUS® compatible input and output
-        • auxiliary outputs
-        • safety switch (moved to power distribution board as eSwitch)
-
-Note: MindPX v2.2 supports maximum 6 direct PWM outputs.
-
-New member in MindPX family!
 MindPX V2.8 board
 
 Product brief:
@@ -87,7 +60,7 @@ Key features of v2.8:
 MindRacer V1.2 board (Hardware version: v1.2)
 
 Key features of v1.2:
-1. 35 x 35mm (30.5 mm mounting holes) ultra mini size, weight only 7g
+1. 35 x 35mm (30.5 mm mounting holes) ultra mini size, weights only ~6g
 2. STM32F427 as processor
 3. 6 main PWM outputs
 4. onboard MPU6500 & HMC5883L
@@ -95,8 +68,8 @@ Key features of v1.2:
 6. optional IMU isolation mounting support
 7. Support PPM/SBUS/SPEKTRUM DSM/Satellite RC input
 8. Support FrSky/Wifi telemetry
-9.  onboard RTC batter and TF card slot
-10. DroneCode standard compliance connector
+9.  onboard RTC battery and TF card slot
+10. DroneCode standard compliant connector
 
 Note: MindPX v2.8 & MindRacer v1.2 share same firmware.
 
