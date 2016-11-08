@@ -60,7 +60,7 @@ Key features of v2.8:
 MindRacer V1.2 board (Hardware version: v1.2)
 
 Key features of v1.2:
-1. 35 x 35mm (30.5 mm mounting holes) ultra mini size, weights only ~6g
+1. 35 x 35mm (30.5 mm mounting holes) ultra mini size, weighs about 6g
 2. STM32F427 as processor
 3. 6 main PWM outputs
 4. onboard MPU6500 & HMC5883L
@@ -69,7 +69,7 @@ Key features of v1.2:
 7. Support PPM/SBUS/SPEKTRUM DSM/Satellite RC input
 8. Support FrSky/Wifi telemetry
 9.  onboard RTC battery and TF card slot
-10. DroneCode standard compliant connector
+10. DroneCode standard connectors
 
 Note: MindPX v2.8 & MindRacer v1.2 share same firmware.
 
