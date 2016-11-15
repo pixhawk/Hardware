@@ -73,6 +73,12 @@ Key features of v1.2:
 
 Note: MindPX v2.8 & MindRacer v1.2 share same firmware.
 
+[Sapog ESC](https://github.com/PX4/sapog) Hardware
+==================================================
+
+The directory `sapog_reference_hardware` contains the reference hardware design for the
+Sapog ESC firmware. Refer to its README.md for more info.
+
 Creative Commons License Disclaimer
 ===================================
 
