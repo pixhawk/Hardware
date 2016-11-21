@@ -59,7 +59,14 @@ Key features of v2.8:
 
 MindRacer V1.2 board (Hardware version: v1.2)
 
+MindRacer specification:
+http://mindpx.net/assets/accessories/mindracer_spec_v1.2.pdf
+
+MindRacer user manual:
+http://mindpx.net/assets/accessories/mindracer_user_guide_v1.2.pdf
+
 Key features of v1.2:
+
 1. 35 x 35mm (30.5 mm mounting holes) ultra mini size, weighs about 6g
 2. STM32F427 as processor
 3. 6 main PWM outputs
