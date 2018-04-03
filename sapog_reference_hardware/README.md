@@ -5,8 +5,8 @@
 This directory contains the reference hardware design for
 [PX4 Sapog](https://kb.zubax.com/x/cYAh) - an advanced open source ESC firmware.
 
-This specific design is intended as an application note and is not recommended for direct manufacturing.
-The main knowledge to gather from this design is the pinout of the MCU and its immediate connections.
+This specific design is intended as an application note;
+the main knowledge to gather from this design is the pinout of the MCU and its immediate connections.
 The design is implemented in Eagle, version 7 or newer is required.
 
 ## Resources
@@ -14,6 +14,14 @@ The design is implemented in Eagle, version 7 or newer is required.
 * **[HOMEPAGE](https://kb.zubax.com/x/cYAh)**
 * **[SUPPORT & FEEDBACK](https://forum.zubax.com/)**
 * **[FIRMWARE ON GITHUB](https://github.com/PX4/sapog)**
+
+## Design guidelines
+
+1. When choosing the power transistors, keep their dynamic characteristics in mind:
+the switching time must be under 50 nanoseconds.
+Sapog employs somewhat unorthodox methods of state estimation which require a high-speed inverter.
+2. The RC filters in the phase voltage feedback circuits should be designed so that their cutoff frequency
+is around 19 kHz and the output impedance does not exceed 8 kohm.
 
 ## License
 
