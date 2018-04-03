@@ -3393,8 +3393,6 @@ http://www.txccrystal.com/images/pdf/7m-accuracy.pdf</description>
 <part name="D6" library="sapog_reference_hardware" deviceset="1KSMB20A" device=""/>
 <part name="R7" library="R_digikey" deviceset="3K9" device="-0402" technology="-1%" value="3K9"/>
 <part name="C35" library="sapog_reference_hardware" deviceset="C-TANT" device="-3024" value="100µF">
-<attribute name="ALTERNATE#1" value="718-1886-1-ND"/>
-<attribute name="ALTERNATE#2" value="399-5221-1-ND"/>
 </part>
 <part name="GND44" library="sapog_reference_hardware" deviceset="GND" device=""/>
 <part name="GND45" library="sapog_reference_hardware" deviceset="GND" device=""/>
