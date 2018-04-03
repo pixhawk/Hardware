@@ -22,6 +22,7 @@ the switching time must be under 50 nanoseconds.
 Sapog employs somewhat unorthodox methods of state estimation which require a high-speed inverter.
 2. The RC filters in the phase voltage feedback circuits should be designed so that their cutoff frequency
 is around 19 kHz and the output impedance does not exceed 8 kohm.
+3. Unless your maximum supply voltage exceeds 25 V (6S), do not change the DC link voltage measurement divider.
 
 ## License
 
