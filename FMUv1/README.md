@@ -1,17 +1,33 @@
-# Pixhawk v1 Hardware
+# FMUv1 Pixhawk Open Hardware Design
 
-FMUv1 & FMUv2 boards
+> **Note** This design is end-of-life.
 
-Design files are EAGLE CAD files (can be viewed with the free version)
-www.cadsoftusa.com/
-
-And BOM management is performed using Bob Starr's BOM-EX plugin:
-http://www.bobstarr.net/pages/downloads.html
+This is the first Pixhawk FMU design, and was intended to be used with various piggyback boards, including an [IO](IOv1) board (the boards were combined into one package for the FMUv2 design).
 
 
-## Creative Commons License Disclaimer
+## Design Files
 
-UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
-EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+The design is provided in [EAGLE](www.cadsoftusa.com) CAD files (can be viewed with the free version).
+And BOM management is performed using [Bob Starr's BOM-EX plugin](http://www.bobstarr.net/pages/downloads.html).
 
-http://creativecommons.org/licenses/by-sa/3.0/
+The design consists of schematic files (*.sch) and includes open reference hardware PCB layouts (.brd). 
+
+## Feature Overview
+
+The PX4-FMU (Flight Management Unit).
+- Cortex M4F micro-controller and flash memory for controlling flight and communications.
+- SD memory card socket
+- 3 axis gyro for determining attitude/orientation.
+- 3 axis accelerometer.
+- Compass (magnetometer).
+- Barometric pressure sensor (altitude)
+- Connection for external UBLOC LEA GPS
+- Interconnections for adding stackable peripheral boards.
+- USB, JTAG and Serial interfaces/connections.
+- PPM-SUM RC radio inputs
+- Servo outputs.
+
+
+## Licensing & Trademarks
+
+Information on licensing and trademarks for Pixhawk designs can be found here: [Pixhawk Licensing](../README.md#license)
