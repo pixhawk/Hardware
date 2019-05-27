@@ -21,7 +21,7 @@ The PX4-FMU (Flight Management Unit).
 - 3 axis accelerometer.
 - Compass (magnetometer).
 - Barometric pressure sensor (altitude)
-- Connection for external UBLOC LEA GPS
+- Connection for external UBLOX LEA GPS
 - Interconnections for adding stackable peripheral boards.
 - USB, JTAG and Serial interfaces/connections.
 - PPM-SUM RC radio inputs
