@@ -48,7 +48,7 @@ Higher FMU numbers indicate that the board is more recent, but may not indicate 
 
 The designs listed below (with a high level overview of the main differences).
 
-Version | Description | Design | Hardware | Description
+Version | Description
 --- | ---
 [FMUv1](FMUv1/README.md) & [IOv1](IOv1) | (Discontinued) Original Flight Management Unit and Separate I/O board.
 [FMUv2](FMUv2/README.md) | Single board with STM32427VI processor.
