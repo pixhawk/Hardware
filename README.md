@@ -57,6 +57,10 @@ Version | Description
 FMUv4-PRO | Slightly increased RAM. More serial ports. IO processor.
 [FMUv5](FMUv5/README.md) | New processor (F7). Much faster. More RAM. More CAN busses. Much more configurable.<br>> **Note** Minimum specification provided (pinout info, but no schematics).
 
+#### Dev Call/Contributing
+
+This standard is on a public developer call.
+Details: TBD.
 
 
 ### Sapog ESC
