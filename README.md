@@ -83,10 +83,13 @@ Relevant products are listed below:
 - [PSMv3_REV_C](PSMv3_REV_C)
 
 
-## Dev Call/Contributing
+## Dev Call {#dev_call}
 
-This standard is on a public developer call.
-Details: TBD.
+Pixhawk standards are developed in a weekly public developer call.
+
+The call is shown in the [Dronecode calendar](https://www.dronecode.org/calendar/) as: *Pixhawk Hardware Standards Weekly Call*
+
+> **Tip** Details for joining the call are provided in the dronecode calendar entry.
 
 
 <span id="licensing"></span>
@@ -107,7 +110,7 @@ Products that are based on independently created schematics are considered origi
 
 The term *Pixhawk* is a trademark, and may not be used in product names without explicit permission from the trademark owner.
 
-Typically this trademark is granted to Pixhawk reference boards (i.e. boards that use Pixhawk open reference hardware layouts).
+Typically this trademark is granted to the first board based on a particular FMU design and/or boards that use Pixhawk open reference hardware layouts.
 
 > **Note** A "Pixhawk" is an autopilot that has been been given permission to use the Pixhawk trademark in its name.
   While other boards are based on the "Pixhawk FMU Standard", the are not *strictly speaking* "Pixhawks".
