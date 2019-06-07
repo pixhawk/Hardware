@@ -3,7 +3,7 @@
 FMUv5 was released in 2018. When compared to previous versions it has a new processor, 2xRAM, new sensors with higher temperature stability, and is much more configurable. 
 More information can be found in the [Pixhawk4 Data Sheet](Pixhawk4-Data-Sheet.pdf).
 
-> **Tip** General [Pixhawk project](http://pixhawk.org/) information about open designs, schematics and reference hardware, FMU versions, licensing, and trademarks can be found in the repo [README](../README.md).
+> **Tip** General information about designs, schematics, reference hardware, FMU versions, licensing, and trademarks can be found in the repo [README](../README.md).
 
 
 ## Design Files
