@@ -5,7 +5,7 @@ This is the first Pixhawk FMU design, and was intended to be used with various p
 > **Warning** This design is end-of-life.
 
 <span></span>
-> **Tip** General [Pixhawk project](http://pixhawk.org/) information about open designs, schematics and reference hardware, FMU versions, licensing, and trademarks can be found in the repo [README](../README.md).
+> **Tip** General information about designs, schematics, reference hardware, FMU versions, licensing, and trademarks can be found in the repo [README](../README.md).
 
 ## Design Files
 
