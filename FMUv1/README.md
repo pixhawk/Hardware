@@ -1,11 +1,10 @@
 # FMUv1 Pixhawk Open Hardware Design
 
+> **General information about Pixhawk designs, schematics, reference hardware, FMU versions, licensing, and trademarks, and contributing to the project can be found in the repo [README](../README.md).**
+
 This is the first Pixhawk FMU design, and was intended to be used with various piggyback boards, including an [IO](IOv1) board (the boards were combined into one package for the FMUv2 design).
 
 > **Warning** This design is end-of-life.
-
-<span></span>
-> **Tip** General information about designs, schematics, reference hardware, FMU versions, licensing, and trademarks can be found in the repo [README](../README.md).
 
 ## Design Files
 
