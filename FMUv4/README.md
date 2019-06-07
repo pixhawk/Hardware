@@ -1,8 +1,8 @@
 # FMUv4 Pixhawk Open Hardware Design
 
-**General information about Pixhawk designs, schematics, reference hardware, FMU versions, licensing, and trademarks, and contributing to the project can be found in the repo [README](../README.md).**
+> **General information about Pixhawk designs, schematics, reference hardware, FMU versions, licensing, and trademarks, and contributing to the project can be found in the repo [README](../README.md).**
 
-The open hardware design of Pixracer based on FMUv4 is provided [here](https://github.com/AUAV-OpenSource/FMUv4-PixRacer).
+The open hardware design of Pixracer (based on FMUv4) is provided [here](https://github.com/AUAV-OpenSource/FMUv4-PixRacer).
 
 ## Design Files
 
