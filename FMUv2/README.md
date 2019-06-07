@@ -1,15 +1,16 @@
 # FMUv2 Pixhawk Open Hardware Design
 
-FMUv1 & FMUv2 boards
- Pixhawk v1 Hardware
-
-Design files are EAGLE CAD files (can be viewed with the free version)
-www.cadsoftusa.com/
-
-And BOM management is performed using Bob Starr's BOM-EX plugin:
-http://www.bobstarr.net/pages/downloads.html
+FMUv2 combines the FMUv1 and I/O designs into a single package.
+The open design provides both schematics and open reference layouts.
+ 
+> **Tip** General [Pixhawk project](http://pixhawk.org/) information about open designs, schematics and reference hardware, FMU versions, licensing, and trademarks can be found in the repo [README](../README.md).
 
 
-## Licensing & Trademarks
+## Design Files
 
-Information on licensing and trademarks for Pixhawk designs can be found here: [Pixhawk Licensing](../README.md#license)
+The design is provided in [EAGLE](https://www.autodesk.com/products/eagle/overview) CAD files (can be viewed with the free version).
+
+It consists of schematic files (*.sch) and includes open reference hardware PCB layouts (.brd). 
+BOM management is performed using [Bob Starr's BOM-EX plugin](http://www.bobstarr.net/pages/downloads.html).
+
+> **Tip** A PDF version of the schematics and PCB layouts has been made available for easy previewing: [PX4FMUv2.4.5.pdf](PX4FMUv2.4.5.pdf).

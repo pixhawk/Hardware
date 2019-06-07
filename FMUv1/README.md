@@ -1,16 +1,18 @@
 # FMUv1 Pixhawk Open Hardware Design
 
-> **Note** This design is end-of-life.
-
 This is the first Pixhawk FMU design, and was intended to be used with various piggyback boards, including an [IO](IOv1) board (the boards were combined into one package for the FMUv2 design).
 
+> **Warning** This design is end-of-life.
+
+<span></span>
+> **Tip** General [Pixhawk project](http://pixhawk.org/) information about open designs, schematics and reference hardware, FMU versions, licensing, and trademarks can be found in the repo [README](../README.md).
 
 ## Design Files
 
-The design is provided in [EAGLE](www.cadsoftusa.com) CAD files (can be viewed with the free version).
-And BOM management is performed using [Bob Starr's BOM-EX plugin](http://www.bobstarr.net/pages/downloads.html).
+The design is provided in [EAGLE](https://www.autodesk.com/products/eagle/overview) CAD files (can be viewed with the free version).
 
-The design consists of schematic files (*.sch) and includes open reference hardware PCB layouts (.brd). 
+It consists of schematic files (*.sch) and includes open reference hardware PCB layouts (.brd). 
+BOM management is performed using [Bob Starr's BOM-EX plugin](http://www.bobstarr.net/pages/downloads.html).
 
 ## Feature Overview
 
@@ -26,8 +28,3 @@ The PX4-FMU (Flight Management Unit).
 - USB, JTAG and Serial interfaces/connections.
 - PPM-SUM RC radio inputs
 - Servo outputs.
-
-
-## Licensing & Trademarks
-
-Information on licensing and trademarks for Pixhawk designs can be found here: [Pixhawk Licensing](../README.md#license)
