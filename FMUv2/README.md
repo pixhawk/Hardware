@@ -1,9 +1,9 @@
 # FMUv2 Pixhawk Open Hardware Design
 
+> **General information about Pixhawk designs, schematics, reference hardware, FMU versions, licensing, and trademarks, and contributing to the project can be found in the repo [README](../README.md).**
+
 FMUv2 combines the FMUv1 and I/O designs into a single package.
 The open design provides both schematics and open reference layouts.
- 
-> **Tip** General information about designs, schematics, reference hardware, FMU versions, licensing, and trademarks can be found in the repo [README](../README.md).
 
 
 ## Design Files
