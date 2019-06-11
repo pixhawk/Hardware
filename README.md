@@ -84,8 +84,8 @@ Relevant products are listed below:
 - [IMUv3_REV_C](IMUv3_REV_C)
 - [PSMv3_REV_C](PSMv3_REV_C)
 
-
-## Dev Call {#dev_call}
+<span id="dev_call"></span>
+## Dev Call
 
 Pixhawk standards are developed in a weekly public developer call.
 
