@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\chris\AppData\Local\TempReleases\Snapshot\1\830-00011 Microhard Module Breakout Board.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=830-00011 microhard module breakout board-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=830-00011 microhard module breakout board-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

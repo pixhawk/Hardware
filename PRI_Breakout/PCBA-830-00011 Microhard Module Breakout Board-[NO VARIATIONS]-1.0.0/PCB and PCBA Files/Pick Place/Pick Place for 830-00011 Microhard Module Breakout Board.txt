@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+C:\Users\chris\AppData\Local\TempReleases\Snapshot\1\Assembly\PCB and PCBA Files\Pick Place\Pick Place for 830-00011 Microhard Module Breakout Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03.05.22
+Time:       10:58
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                                 Layer    Footprint                      Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                
+R7         "17.4K / 0402 / 1% / 0.063W / 100PPM/K" TopLayer RESC0402(1005)_L               24.4750      76.8750      180      "RES SMD 17.4K OHM 1% 1/16W 0402"                                                                                          
+R6         "1.2M / 0402 / 1% / 0.063W / 100PPM/K"  TopLayer RESC0402(1005)_L               42.4250      81.6750      270      "Fixed Resistor, Metal Glaze/thick Film, 0.0625W, 1200000ohm, 50V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0402"             
+R5         "1.8M / 0402 / 1% / 0.063W / 100PPM/K"  TopLayer RESC0402(1005)_L               41.5750      81.6750      90       "RES SMD 1.8M OHM 1% 1/16W 0402"                                                                                           
+Q1         DMP4047LFDE-7                           TopLayer DMP2066UFDE7                   37.9750      82.0250      0        "MOSFET P-CH 40V 3.3A 6UDFN"                                                                                               
+D3         RB521S30T1G                             TopLayer ONSC-SOD-523-2-502-01_V        40.6250      81.6750      270      "Rectifier Diode, Schottky, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                                 
+C4         "1uF / 0402 / 10% / 35V / X5R"          TopLayer CAPC0402(1005)60_L             39.6250      81.6250      90       "CAP CER 1UF 35V X5R 0402"                                                                                                 
+U1         LTM8074EY#PBF                           TopLayer FP-BGA-25-05-08-1566-MFG       24.9000      79.7250      270      "Switching Regulator, Current-mode, 2200kHz Switching Freq-Max, PBGA25"                                                    
+R4         "47K / 0402 / 1% / 0.063W / 100PPM/K"   TopLayer RESC0402(1005)_L               24.7500      82.6250      180      "Fixed Resistor, Metal Glaze/thick Film, 0.0625W, 47000ohm, 50V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0402"               
+R3         "23.7K / 0402 / 1% / 0.063W / 100PPM/K" TopLayer RESC0402(1005)_L               26.1000      76.8750      180      "RES 23.7K OHM 1% 1/16W 0402"                                                                                              
+R2         "7.5K / 0402 / 1% / 0.063W / 100PPM/K"  TopLayer RESC0402(1005)_L               22.7750      76.8750      180      "RES 7.5K OHM 1% 1/16W 0402"                                                                                               
+R1         "5.1K / 0402 / 1% / 0.063W / 100PPM/K"  TopLayer RESC0402(1005)_L               9.4250       79.6750      0        "Fixed Resistor, Metal Glaze/thick Film, 0.0625W, 5100ohm, 50V, 5% +/-Tol, 100ppm/Cel, Surface Mount, 0402"                
+J6         BM02B-GHS-TBT                           TopLayer JST-BM02B-GHS-TBT_V            16.9750      79.6250      180      "Disconnectable Crimp Style Connector, Pitch 1.25 mm, 1 x 2 Position, Height 4.05 mm, -25 to 85 degC, RoHS, Tape and Reel" 
+J5         ERM8-020-02.0-L-DV-P-TR                 TopLayer FP-ERM8-020-02_0-L-DV-TR-MFG   28.4500      66.5250      0        "Board Stacking Connector, 40 Contact(s), 2 Row(s), Male, Straight, 0.8mm Pitch, Surface Mount Terminal, Black Insulator"  
+J4         0436500205                              TopLayer SHDRRA2W64P300_2X1_965X990H437 49.1750      82.4350      0        "CONN MALE HEADER R/A 2POS 3MM"                                                                                            
+J3         SM06B-GHS-TB                            TopLayer JST-SM06B-GHS-TB_V             34.6750      85.9250      180      "JST GH Series Connector, Pitch 1.25 mm, 1 x 6 Position, Right Angle, Height 4.35 mm, -25 to 85 degC, RoHS, Tape and Reel" 
+J2         SM04B-GHS-TB                            TopLayer JST-SM04B-GHS-TB               21.3500      85.9250      180      "4 Positions Header Connector 1.25mm SMD Right Angle"                                                                      
+J1         2012670005                              TopLayer 2012670005                     7.4250       84.3250      180      "USB Connector, 24 Contact(s), Female, Right Angle, Surface Mount Terminal, Locking, Receptacle"                           
+F2         C2Q300                                  TopLayer RESC0603(1608)_L               20.4250      81.9250      180      "Electric Fuse, Very Fast Blow, 0.3A, 32VAC, 63VDC, 35A (IR), Surface Mount, 0603"                                         
+F1         SF-0603S040-2                           TopLayer RESC0603(1608)_L               47.0750      78.3250      180      "Electric Fuse, Slow Blow, 0.4A, 35VAC, 50VDC, 50A (IR), Surface Mount, 0603"                                              
+D1         1.5SMBJ30A                              TopLayer JCET-SMB-2_N                   40.6750      78.5250      0        "TVS Diode Single Uni-Dir 30V 1.5KW 2-Pin SMB T/R"                                                                         
+C3         "10uF / 0805 / 20% / 16V / X7R"         TopLayer CAPC0805(2012)145_L            21.4750      79.8700      90       "CAP CER 10UF 16V X7R 0805"                                                                                                
+C2         "1uF / 0603 / 10% / 50V / X5R"          TopLayer CAPC0603(1608)100_L            27.9700      79.0750      90       "CAP CER 1UF 50V X5R 0603"                                                                                                 
+C1         UCM1V151MCL1GS                          TopLayer CAPAE6866X82L                  32.7250      79.9250      0        "CAP ALUM 150UF 20% 35V SMD"                                                                                               

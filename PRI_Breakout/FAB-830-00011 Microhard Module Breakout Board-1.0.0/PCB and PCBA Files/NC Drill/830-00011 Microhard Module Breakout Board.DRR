@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 830-00011 Microhard Module Breakout Board.PcbDoc   03.05.2022  10:58:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 830-00011 Microhard Module Breakout Board-RoundHoles.TXT
+ASCII SlotHoles File : 830-00011 Microhard Module Breakout Board-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             715       PTH        2046.47mm (80.57inch)
+T2      0.4mm (16mil)                                             Slot              4         PTH        45.26mm (1.78inch)
+T3      1.06mm (42mil)                                            Round             2         PTH        3.00mm (0.12inch)
+T4      2.41mm (95mil)                                            Round             2         PTH        7.30mm (0.29inch)
+T5      1.45mm (57mil)                                            Round             2         NPTH       18.80mm (0.74inch)
+T6      3mm (118mil)                                              Round             1         NPTH       0.00mm (0.00inch)
+T7      3.2mm (126mil)                                            Round             2         NPTH       67.00mm (2.64inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              728
+
+Total Processing Time (hh:mm:ss) : 00:00:00

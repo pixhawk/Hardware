@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\chris\AppData\Local\TempReleases\Snapshot\1\830-00011 Microhard Module Breakout Board.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_ETH_TX|Scope=Board|Minimum=29.53
+RuleKind=Clearance|RuleName=Clearance_ETH_RX|Scope=Board|Minimum=29.53
+RuleKind=Clearance|RuleName=Clearance_USB|Scope=Board|Minimum=23.62
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
