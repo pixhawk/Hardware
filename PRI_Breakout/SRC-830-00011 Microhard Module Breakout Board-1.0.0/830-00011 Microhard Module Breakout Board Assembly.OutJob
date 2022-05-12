@@ -1,0 +1,258 @@
+[OutputJobFile]
+Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=830-00011 Microhard Module Breakout Board Assembly.OutJob
+Description=
+TargetOutputMedium=PCB and PCBA Files
+VariantName=[No Variations]
+VariantScope=1
+CurrentConfigurationName=
+TargetPrinter=Canon TS9500 series
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
+OutputMedium1=Print Job
+OutputMedium1_Type=Printer
+OutputMedium1_Printer=
+OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium2=Assembly Documentation
+OutputMedium2_Type=Publish
+OutputMedium3=PCB and PCBA Files
+OutputMedium3_Type=GeneratedFiles
+OutputMedium4=BOM
+OutputMedium4_Type=GeneratedFiles
+OutputType1=PDF3D
+OutputName1=PDF3D
+OutputCategory1=Documentation
+OutputDocumentPath1=
+OutputVariantName1=
+OutputEnabled1=0
+OutputEnabled1_OutputMedium1=0
+OutputEnabled1_OutputMedium2=0
+OutputEnabled1_OutputMedium3=0
+OutputEnabled1_OutputMedium4=0
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=9|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9|DocumentPath=G:\My Drive\Altium\Projects\Peripherals\830-00008 High Voltage Power Module\830-00008 High Voltage Power Module.PcbDoc
+OutputType2=PCBDrawing
+OutputName2=Assembly Documentation
+OutputCategory2=Documentation
+OutputDocumentPath2=830-00011 Microhard Module Breakout Board Assembly.PCBDwf
+OutputVariantName2=
+OutputEnabled2=0
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=1
+OutputEnabled2_OutputMedium3=0
+OutputEnabled2_OutputMedium4=0
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
+OutputType3=PCBDrawing
+OutputName3=PCB Fab Documentation
+OutputCategory3=Documentation
+OutputDocumentPath3=830-00011 Microhard Module Breakout Board PCB Fab.PCBDwf
+OutputVariantName3=
+OutputEnabled3=0
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=0
+OutputEnabled3_OutputMedium3=0
+OutputEnabled3_OutputMedium4=0
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
+OutputType4=Schematic Print
+OutputName4=Schematic Prints
+OutputCategory4=Documentation
+OutputDocumentPath4=[Project Physical Documents]
+OutputVariantName4=
+OutputEnabled4=0
+OutputEnabled4_OutputMedium1=0
+OutputEnabled4_OutputMedium2=0
+OutputEnabled4_OutputMedium3=0
+OutputEnabled4_OutputMedium4=0
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
+OutputType5=Pick Place
+OutputName5=Generates pick and place files
+OutputCategory5=Assembly
+OutputDocumentPath5=
+OutputVariantName5=
+OutputEnabled5=1
+OutputEnabled5_OutputMedium1=0
+OutputEnabled5_OutputMedium2=0
+OutputEnabled5_OutputMedium3=2
+OutputEnabled5_OutputMedium4=0
+OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:JESD-609 Code,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#18=Name:Nominal Vf,Fixed:False,Metric:False,Visible:False,Sort:None,Position:88|Column#19=Name:Rated Power Dissipation (P),Fixed:False,Metric:False,Visible:False,Sort:None,Position:118|Column#20=Name:Operating Mode,Fixed:False,Metric:False,Visible:False,Sort:None,Position:93|Column#21=Name:REACH SVHC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:121|Column#22=Name:Positive Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:112|Column#23=Name:Source,Fixed:False,Metric:False,Visible:False,Sort:None,Position:137|Column#24=Name:Moisture Sensitivity Level,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78|Column#25=Name:ESR (Equivalent Series Resistance),Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#26=Name:Rated DC Voltage (URdc),Fixed:False,Metric:False,Visible:False,Sort:None,Position:117|Column#27=Name:Package Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:100|Column#28=Name:RoHS Compliant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:130|Column#29=Name:Max Output Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67|Column#30=Name:Leakage Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#31=Name:Min Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75|Column#32=Name:Rds On (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:120|Column#33=Name:Package Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:103|Column#34=Name:Connector Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#35=Name:Package Body Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:98|Column#36=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#37=Name:Self Resonant Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:133|Column#38=Name:Min Input Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74|Column#39=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:105|Column#40=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79|Column#41=Name:Lens Style,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#42=Name:Vgs (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:157|Column#43=Name:Diode Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#44=Name:Mfr Part Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71|Column#45=Name:Number of Pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:92|Column#46=Name:Dropout Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|Column#47=Name:Case/Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#48=Name:Gender,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#49=Name:Nominal Dual Supply,Fixed:False,Metric:False,Visible:False,Sort:None,Position:85|Column#50=Name:Terminal Form,Fixed:False,Metric:False,Visible:False,Sort:None,Position:147|Column#51=Name:Pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:109|Column#52=Name:Rep Pk Reverse Voltage-Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:123|Column#53=Name:Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:124|Column#54=Name:Transistor Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:153|Column#55=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:151|Column#56=Name:Tan Delta,Fixed:False,Metric:False,Visible:False,Sort:None,Position:141|Column#57=Name:Nominal Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:87|Column#58=Name:Forward Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#59=Name:Size Code,Fixed:False,Metric:False,Visible:False,Sort:None,Position:136|Column#60=Name:Surface Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:140|Column#61=Name:Max Breakdown Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63|Column#62=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:129|Column#63=Name:Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:135|Column#64=Name:Capacitor Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#65=Name:Time @ Peak Reflow Temperature-Max (s),Fixed:False,Metric:False,Visible:False,Sort:None,Position:150|Column#66=Name:Max Input Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65|Column#67=Name:Manufacturer_Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61|Column#68=Name:Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#69=Name:Multilayer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:83|Column#70=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#71=Name:Termination,Fixed:False,Metric:False,Visible:False,Sort:None,Position:149|Column#72=Name:Forward Current-Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#73=Name:Peak Inverse Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:107|Column#74=Name:Drain to Source Voltage Vds (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#75=Name:Max Power Dissipation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68|Column#76=Name:Temperature Coefficient,Fixed:False,Metric:False,Visible:False,Sort:None,Position:144|Column#77=Name:Resistor Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:125|Column#78=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#79=Name:Package Style,Fixed:False,Metric:False,Visible:False,Sort:None,Position:102|Column#80=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:156|Column#81=Name:Continuous Drain Current Id (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#82=Name:Negative Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:84|Column#83=Name:Mfr Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72|Column#84=Name:Output Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:96|Column#85=Name:Max Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69|Column#86=Name:Mouser Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:82|Column#87=Name:JEDEC-95 Code,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#88=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#89=Name:Min Breakdown Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73|Column#90=Name:Terminal Position,Fixed:False,Metric:False,Visible:False,Sort:None,Position:148|Column#91=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#92=Name:Reference Standard,Fixed:False,Metric:False,Visible:False,Sort:None,Position:122|Column#93=Name:DC Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#94=Name:Luminous Intensity-Nom,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#95=Name:Avalanche Energy Rating (Eas),Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#96=Name:Sensor Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:134|Column#97=Name:Max Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64|Column#98=Name:Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#99=Name:Drain-source On Resistance-Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#100=Name:Max Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66|Column#101=Name:Min Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77|Column#102=Name:Power,Fixed:False,Metric:False,Visible:False,Sort:None,Position:113|Column#103=Name:Manufacturer_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62|Column#104=Name:DS Breakdown Voltage-Min,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#105=Name:Mounting Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80|Column#106=Name:Updated By,Fixed:False,Metric:False,Visible:False,Sort:None,Position:154|Column#107=Name:Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:142|Column#108=Name:Max Surge Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70|Column#109=Name:Pricing 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:114|Column#110=Name:Stock 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:138|Column#111=Name:Created By,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#112=Name:Drain Current-Max (ID),Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#113=Name:Design Item ID,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#114=Name:Updated_Date,Fixed:False,Metric:False,Visible:False,Sort:None,Position:155|Column#115=Name:Temperature Characteristics Code,Fixed:False,Metric:False,Visible:False,Sort:None,Position:143|Column#116=Name:Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:160|Column#117=Name:Nominal Supply Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:86|Column#118=Name:Polarity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:110|Column#119=Name:Polarity/Channel Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:111|Column#120=Name:Working Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:161|Column#121=Name:Topology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:152|Column#122=Name:Ripple Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:127|Column#123=Name:Nominal Vgs,Fixed:False,Metric:False,Visible:False,Sort:None,Position:89|Column#124=Name:Terminal Finish,Fixed:False,Metric:False,Visible:False,Sort:None,Position:146|Column#125=Name:Mouser Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:81|Column#126=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:139|Column#127=Name:Programmable Output Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:115|Column#128=Name:Package Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:99|Column#129=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#130=Name:Construction,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#131=Name:Case Connection,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#132=Name:Contact Gender,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#133=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|Column#134=Name:Temperature Range,Fixed:False,Metric:False,Visible:False,Sort:None,Position:145|Column#135=Name:Colour,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#136=Name:Forward Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#137=Name:Reverse Voltage-Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:126|Column#138=Name:Non-rep Peak Rev Power Dis-Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:90|Column#139=Name:Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:95|Column#140=Name:Color@wavelength,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#141=Name:Min Output Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76|Column#142=Name:Pulsed Drain Current-Max (IDM),Fixed:False,Metric:False,Visible:False,Sort:None,Position:116|Column#143=Name:Optoelectronic Device Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:94|Column#144=Name:Ripple Current (AC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:128|Column#145=Name:Rated Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:119|Column#146=Name:Package Shape,Fixed:False,Metric:False,Visible:False,Sort:None,Position:101|Column#147=Name:FET Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#148=Name:Peak Reflow Temperature (Cel),Fixed:False,Metric:False,Visible:False,Sort:None,Position:108|Column#149=Name:Vgs(th) (Max) @ Id,Fixed:False,Metric:False,Visible:False,Sort:None,Position:158|Column#150=Name:Overall Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:97|Column#151=Name:Rows,Fixed:False,Metric:False,Visible:False,Sort:None,Position:131|Column#152=Name:Datasheet link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#153=Name:Part_Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:106|Column#154=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#155=Name:Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#156=Name:Number of Elements,Fixed:False,Metric:False,Visible:False,Sort:None,Position:91|Column#157=Name:Created_Date,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#158=Name:Package_Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:104|Column#159=Name:Voltage Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:159|Column#160=Name:Saturation Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:132|Column#161=Name:Dominant Wavelength,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#162=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60|DocumentPath=G:\My Drive\Altium\Projects\Peripherals\830-00008 High Voltage Power Module\830-00008 High Voltage Power Module.PcbDoc
+OutputType6=Gerber
+OutputName6=Gerber Files
+OutputCategory6=Fabrication
+OutputDocumentPath6=
+OutputVariantName6=
+OutputEnabled6=1
+OutputEnabled6_OutputMedium1=0
+OutputEnabled6_OutputMedium2=0
+OutputEnabled6_OutputMedium3=1
+OutputEnabled6_OutputMedium4=0
+OutputDefault6=0
+Configuration6_Name1=OutputConfigurationParameter1
+Configuration6_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842753~1,16842754~1,16842751~1,16973835~1,16973831~1,16908289~1,16908290~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=G:\My Drive\Altium\Projects\Microhard\830-00011 Microhard Module Breakout Board\830-00011 Microhard Module Breakout Board.PcbDoc
+OutputType7=NC Drill
+OutputName7=NC Drill Files
+OutputCategory7=Fabrication
+OutputDocumentPath7=
+OutputVariantName7=
+OutputEnabled7=0
+OutputEnabled7_OutputMedium1=0
+OutputEnabled7_OutputMedium2=0
+OutputEnabled7_OutputMedium3=0
+OutputEnabled7_OutputMedium4=0
+OutputDefault7=0
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=G:\My Drive\Altium\Projects\Peripherals\830-00008 High Voltage Power Module\830-00008 High Voltage Power Module.PcbDoc
+OutputType8=ODB
+OutputName8=ODB++ Files
+OutputCategory8=Fabrication
+OutputDocumentPath8=
+OutputVariantName8=
+OutputEnabled8=0
+OutputEnabled8_OutputMedium1=0
+OutputEnabled8_OutputMedium2=0
+OutputEnabled8_OutputMedium3=0
+OutputEnabled8_OutputMedium4=0
+OutputDefault8=0
+Configuration8_Name1=OutputConfigurationParameter1
+Configuration8_Item1=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair0_Plot=True|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair0_Plot=True|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPair0_Plot=True|PlotNPTHPairs=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPair0_Plot=True|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView|Units=Imperial|DocumentPath=G:\My Drive\Altium\Projects\Peripherals\830-00008 High Voltage Power Module\830-00008 High Voltage Power Module.PcbDoc
+OutputType9=BOM_PartType
+OutputName9=Bill of Materials
+OutputCategory9=Report
+OutputDocumentPath9=[ActiveBOM Document]
+OutputVariantName9=
+OutputEnabled9=0
+OutputEnabled9_OutputMedium1=0
+OutputEnabled9_OutputMedium2=0
+OutputEnabled9_OutputMedium3=0
+OutputEnabled9_OutputMedium4=1
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration9_Name1=ColumnNameFormat
+Configuration9_Item1=CaptionAsName
+Configuration9_Name2=General
+Configuration9_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1618|FormHeight=1034|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration9_Name3=GroupOrder
+Configuration9_Item3=
+Configuration9_Name4=VisibleOrder
+Configuration9_Item4=Comment=219|Description=364|Designator=80|Manufacturer 1=102|Manufacturer Part Number 1=169|Supplier 1=107|Supplier Part Number 1=142|Quantity=67
+Configuration9_Name5=VisibleOrder_Base
+Configuration9_Item5=Comment=219|Description=364|Designator=80|Manufacturer 1=102|Manufacturer Part Number 1=169|Supplier 1=107|Supplier Part Number 1=142|Quantity=67
+Configuration9_Name6=VisibleOrder_Consolidated
+Configuration9_Item6=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision Status=100|Quantity=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=107|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122|Quantity@Production=100|Price@Production=100
+Configuration9_Name7=VisibleOrder_Flat
+Configuration9_Item7=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision Status=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=107|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+OutputType10=ExportSTEP
+OutputName10=Export STEP
+OutputCategory10=Export
+OutputDocumentPath10=
+OutputVariantName10=
+OutputEnabled10=0
+OutputEnabled10_OutputMedium1=0
+OutputEnabled10_OutputMedium2=0
+OutputEnabled10_OutputMedium3=0
+OutputEnabled10_OutputMedium4=0
+OutputDefault10=0
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=0|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=G:\My Drive\Altium\Projects\Peripherals\830-00008 High Voltage Power Module\830-00008 High Voltage Power Module.PcbDoc
+
+[PublishSettings]
+OutputFilePath2=G:\My Drive\Altium\Projects\Peripherals\830-00008 High Voltage Power Module\Project Outputs for 830-00008 High Voltage Power Module\830-00008 High Voltage Power Module.PDF
+ReleaseManaged2=1
+OutputBasePath2=Project Outputs for 830-00011 Microhard Module Breakout Board
+OutputPathMedia2=
+OutputPathMediaValue2=
+OutputPathOutputer2=
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2=
+OutputFileName2=830-00008 High Voltage Power Module.PDF
+OutputFileNameMulti2=
+UseOutputNameForMulti2=1
+OutputFileNameSpecial2=
+OpenOutput2=1
+PromptOverwrite2=1
+PublishMethod2=1
+ZoomLevel2=50
+FitSCHPrintSizeToDoc2=1
+FitPCBPrintSizeToDoc2=1
+GenerateNetsInfo2=1
+MarkPins2=1
+MarkNetLabels2=1
+MarkPortsId2=1
+GenerateTOC2=1
+ShowComponentParameters2=1
+GlobalBookmarks2=0
+PDFACompliance2=Disabled
+PDFVersion2=Default
+OutputFilePath3=G:\My Drive\Altium\Projects\Microhard\830-00011 Microhard Module Breakout Board\Project Outputs for 830-00011 Microhard Module Breakout Board\PCB and PCBA Files\
+ReleaseManaged3=1
+OutputBasePath3=Project Outputs for 830-00011 Microhard Module Breakout Board
+OutputPathMedia3=[Media Name]
+OutputPathMediaValue3=
+OutputPathOutputer3=[Output Type]
+OutputPathOutputerPrefix3=
+OutputPathOutputerValue3=
+OutputFileName3=
+OutputFileNameMulti3=
+UseOutputNameForMulti3=1
+OutputFileNameSpecial3=
+OpenOutput3=1
+OutputFilePath4=G:\My Drive\Altium\Projects\Microhard\830-00011 Microhard Module Breakout Board\Project Outputs for 830-00011 Microhard Module Breakout Board\
+ReleaseManaged4=1
+OutputBasePath4=Project Outputs for 830-00011 Microhard Module Breakout Board
+OutputPathMedia4=
+OutputPathMediaValue4=
+OutputPathOutputer4=[Output Type]
+OutputPathOutputerPrefix4=
+OutputPathOutputerValue4=
+OutputFileName4=
+OutputFileNameMulti4=
+UseOutputNameForMulti4=1
+OutputFileNameSpecial4=
+OpenOutput4=1
+
+[GeneratedFilesSettings]
+RelativeOutputPath2=G:\My Drive\Altium\Projects\Peripherals\830-00008 High Voltage Power Module\Project Outputs for 830-00008 High Voltage Power Module\830-00008 High Voltage Power Module.PDF
+OpenOutputs2=1
+RelativeOutputPath3=G:\My Drive\Altium\Projects\Microhard\830-00011 Microhard Module Breakout Board\Project Outputs for 830-00011 Microhard Module Breakout Board\PCB and PCBA Files\
+OpenOutputs3=1
+AddToProject3=1
+TimestampFolder3=0
+UseOutputName3=0
+OpenODBOutput3=0
+OpenGerberOutput3=0
+OpenNCDrillOutput3=0
+OpenIPCOutput3=0
+EnableReload3=0
+RelativeOutputPath4=G:\My Drive\Altium\Projects\Microhard\830-00011 Microhard Module Breakout Board\Project Outputs for 830-00011 Microhard Module Breakout Board\
+OpenOutputs4=1
+AddToProject4=1
+TimestampFolder4=0
+UseOutputName4=0
+OpenODBOutput4=0
+OpenGerberOutput4=0
+OpenNCDrillOutput4=0
+OpenIPCOutput4=0
+EnableReload4=0
+
