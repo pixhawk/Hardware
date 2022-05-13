@@ -12,4 +12,11 @@ It consists of schematic files (*.SchDoc), BOM listings, and includes open refer
 
 > **Tip** PDF versions of the schematics and PCB layouts has been made available for easy previewing (i.e. if you don't have Altium Designer).
 
+<span id="licensing"></span>
+## Licensing and Trademarks
+
+The PRI breakout board design files are contributed by Auterion AG and licensed under [CC BY-SA 3](https://creativecommons.org/licenses/by-sa/3.0/legalcode).
+
+The license allows you to use, sell, share, modify and build on the files in almost any way you like - provided that you give credit/attribution, and that you share any changes that you make under the same open source license (see the [human readable version of the license](https://creativecommons.org/licenses/by-sa/3.0/) for a concise summary of the rights and obligations).
+
 
