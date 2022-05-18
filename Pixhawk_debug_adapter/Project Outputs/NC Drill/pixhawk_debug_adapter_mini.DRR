@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: pixhawk_debug_adapter_mini.PcbDoc   5/17/2020  9:56:45 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : pixhawk_debug_adapter_mini.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             188       PTH        0.00inch (0.00mm)
+T2      14mil (0.35mm)                                            Round             32        PTH        0.00inch (0.00mm)
+T3      40mil (1.02mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T4      42mil (1.06mm)                                            Round             10        PTH        0.00inch (0.00mm)
+T5      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              236
+
+Total Processing Time (hh:mm:ss) : 00:00:00

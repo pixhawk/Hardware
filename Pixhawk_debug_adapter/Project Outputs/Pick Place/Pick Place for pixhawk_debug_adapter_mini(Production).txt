@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\AD17\Workspace\Auterion\Auterion-Hardware-Reference-Designs\pixhawk_debug\Proto1\Project Outputs for pixhawk_debug_adapter_mini\Pick Place\Pick Place for pixhawk_debug_adapter_mini(Production).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/05/20
+Time:       09:56
+Revision:   501b0011742170e91d6426f767c7254f36f2466d
+Variant:    Production
+Units used: mil
+
+Designator Comment                                    Layer    Footprint                           Center-X(mil) Center-Y(mil) Rotation Description                               
+SW1        "SWITCH TACTILE SPST-NO 0.05A 12V SMT"     TopLayer SWITCH_SON4P450_420X320X250L75X100N 921.680       96.721        270      "SWITCH TACTILE SPST-NO 0.05A 12V SMT"    
+JP1        "JUMPER SHORTING BAR 2MM PAD"              TopLayer SHORTING_JUMPER_2MM                 602.271       368.300       180      "JUMPER SHORTING BAR 2MM PAD"             
+J5         "CONN HEADER 10POS DUAL .05" SMD"          TopLayer FTSH-105-01-XXX-DV-K                988.673       410.000       90       "CONN HEADER 10POS DUAL .05" SMD"         
+J3         CONN_HDR_2X10_MALE_2.54MM_SHR_SAMTEC_SMD   TopLayer SAMTEC_HTST-110-01-F-DV             1635.000      688.976       90       CONN_HDR_2X10_MALE_2.54MM_SHR_SAMTEC_SMD  
+GND        "TESTPOINT MINIATURE SMD"                  TopLayer KSTN-5015                           635.628       1216.732      180      "TESTPOINT MINIATURE SMD"                 
+J2         "CONN HEADER SUR 8POS .8MM VERT SMT"       TopLayer JST_BM08B-SURS-TFLFSN               893.999       1102.362      90       "CONN HEADER SUR 8POS .8MM VERT SMT"      
+U1         "IC GATE AND 1CH 2-INP 5-TSOP"             TopLayer SOT23-5P95_270X145L35X35N           523.176       118.110       0        "IC GATE AND 1CH 2-INP 5-TSOP"            
+R1         "RES SMD 68 OHM 1% 1/8W 0805"              TopLayer RESC200X125X70L40N                  165.639       530.486       180      "RES SMD 68 OHM 1% 1/8W 0805"             
+J1         CONN_HDR_2X10_VERT_SHROUD_FTSH_1.27MM_SMT  TopLayer SAMTEC_FTSH-110-01-L-DV-K-TR        2174.409      688.976       90       CONN_HDR_2X10_VERT_SHROUD_FTSH_1.27MM_SMT 
+D1         "DIODE ZENER 5.1V 225MW SOT23-3"           TopLayer SOT23-3P95_230X110L30X43N_DIODE     149.578       403.851       360      "DIODE ZENER 5.1V 225MW SOT23-3"          
+D2         "DIODE SCHOTTKY 70V 70MA SOD523"           TopLayer SODFL120X80X70L30X30                598.039       274.047       180      "DIODE SCHOTTKY 70V 70MA SOD523"          
+R4         "RES SMD 100K OHM 1% 1/16W 0402"           TopLayer RESC100X50X40L25                    380.399       111.095       270      "RES SMD 100K OHM 1% 1/16W 0402"          
+M1         "MOUNT HOLE 3MM 8VIAS THMOUNT_HOLE_3MM_TH" TopLayer MOUNT_HOLE_3MM_8VIA_TH              157.480       157.480       0        "MOUNT HOLE 3MM 8VIAS TH"                 
+M3         "MOUNT HOLE 3MM 8VIAS THMOUNT_HOLE_3MM_TH" TopLayer MOUNT_HOLE_3MM_8VIA_TH              2204.724      1220.472      0        "MOUNT HOLE 3MM 8VIAS TH"                 
+J4         "CONN HEADER SH 10POS TOP 1MM TIN"         TopLayer JST_BM10B-SRSS-TB                   636.624       688.976       90       "CONN HEADER SH 10POS TOP 1MM TIN"        
+M4         "MOUNT HOLE 3MM 8VIAS THMOUNT_HOLE_3MM_TH" TopLayer MOUNT_HOLE_3MM_8VIA_TH              2204.724      157.480       0        "MOUNT HOLE 3MM 8VIAS TH"                 
+M2         "MOUNT HOLE 3MM 8VIAS THMOUNT_HOLE_3MM_TH" TopLayer MOUNT_HOLE_3MM_8VIA_TH              157.480       1220.472      0        "MOUNT HOLE 3MM 8VIAS TH"                 
+C1         "CAP CER 0.1UF 10% 50V X5R 0402"           TopLayer CAPC100X50X56L25N                   513.381       221.009       180      "CAP CER 0.1UF 10% 50V X5R 0402"          
+R3         "RES SMD 10K OHM 1% 1/16W 0402"            TopLayer RESC100X50X40L25                    652.394       115.299       270      "RES SMD 10K OHM 1% 1/16W 0402"           
+R2         "RES SMD 10K OHM 1% 1/16W 0402"            TopLayer RESC100X50X40L25                    520.122       280.756       360      "RES SMD 10K OHM 1% 1/16W 0402"           
+J7         "CONN HEADER SH 6POS TOP 1MM TIN"          TopLayer JST_BM06B-SRSS-TB                   180.177       759.748       90       "CONN HEADER SH 6POS TOP 1MM TIN"         
+J9         "CONN HEADER 6POS 0.100" (2.54mm) SMD"     TopLayer SAMTEC_TSM-106-01-XX-SV             1175.000      900.000       90       "CONN HEADER 6POS 0.100" (2.54mm) SMD"    

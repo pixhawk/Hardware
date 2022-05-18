@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:19:02 AM On 5/16/2020
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [Production] of PCB Document [pixhawk_debug_adapter_mini.PcbDoc]
+   Generated File[pixhawk_debug_adapter_mini(Production).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:19:08 AM On 5/16/2020

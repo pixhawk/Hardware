@@ -1,0 +1,480 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 18 0.9216804 0.0967205 90 N SW1 SWITCH_TACTILE_SPST-NO_0.05A_12V_SMT ;0=1,1=0.0984
+PRP Category 'Switches'
+PRP ComponentLink1Description 'https://www.digikey.com/product-detail/en/e-switch/TL3365AF180QG/EG5384CT-ND/5964420'
+PRP ComponentLink1URL 'https://www.digikey.com/product-detail/en/e-switch/TL3365AF180QG/EG5384CT-ND/5964420'
+PRP ComponentLink2Description 'https://www.mouser.com/ProductDetail/ALPS/SKRPABE010?qs=%2fha2pyFaduiSGOmjM3i%252bt9v%2fAzS%2f%2fo3A%2fnB8kYeCJaQ%3d'
+PRP ComponentLink2URL 'https://www.mouser.com/ProductDetail/ALPS/SKRPABE010?qs=%2fha2pyFaduiSGOmjM3i%252bt9v%2fAzS%2f%2fo3A%2fnB8kYeCJaQ%3d'
+PRP Manufacturer 'E-Switch'
+PRP Manufacturer_Part_Number 'TL3365AF180QG'
+PRP Operating_Temperature '-20°C ~ 70°C'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=0.34, 10=0.333, 25=0.3208, 50=0.3088, 100=0.297, 250=0.27324, 500=0.2376, 1000=0.20196 (USD)'
+PRP Stock_1 '73674'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'EG5384CT-ND'
+PRP Voltage_-_Rated '0.05A @ 12VDC'
+TOP 0 1.0014048 0.1390433 270 N 23 6 SW1-1
+TOP 1 0.841956 0.1390433 270 N 23 7 SW1-2
+TOP 2 1.0014048 0.0543977 90 N 22 48 SW1-3
+TOP 3 0.841956 0.0553819 90 N 22 47 SW1-4
+#
+# CMP 1
+CMP 6 2.1974195 1.013013 180 N JTAG_VCC TESTPOINT_MINIATURE_SMD ;0=1,1=0.0591
+PRP Category 'Test and Measurement'
+PRP ComponentLink1Description 'https://www.digikey.com/product-detail/en/keystone-electronics/5015/36-5015CT-ND/278886'
+PRP ComponentLink1URL 'https://www.digikey.com/product-detail/en/keystone-electronics/5015/36-5015CT-ND/278886'
+PRP Manufacturer 'Keystone Electronics'
+PRP Manufacturer_Part_Number '5015'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '36-5015CT-ND'
+TOP 0 2.1974195 1.013013 180 N 28 0 JTAG_VCC-1
+#
+# CMP 2
+CMP 13 0.6022715 0.3683001 180 N JP1 JUMPER_SHORTING_BAR_2MM_PAD ;0=1,1=0.3937
+PRP Category 'Mechanical'
+PRP Parameter '2MM PAD'
+TOP 0 0.6416416 0.3683001 180 N 21 2 JP1-1
+TOP 1 0.5629014 0.3683001 180 N 24 5 JP1-2
+#
+# CMP 3
+CMP 2 0.4133858 0.2427208 270 N J8 CONN_HEADER_0.100"_(2.54mm)_10POS_VERT_TH ;0=2,1=0.3350
+PRP Category 'Connectors, Interconnects'
+PRP ComponentLink1Description 'https://www.digikey.com/product-detail/en/samtec-inc/TSW-110-07-F-S/SAM10351-ND/6679088'
+PRP ComponentLink1URL 'https://www.digikey.com/product-detail/en/samtec-inc/TSW-110-07-F-S/SAM10351-ND/6679088'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'TSW-110-07-F-S'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Packaging 'Bulk'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=0.56, 10=0.525 (USD)'
+PRP Stock_1 '4178'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM10351-ND'
+PRP System 'Connector'
+TOP 0 0.4133858 0.2427208 270 N 11 0 J8-1
+TOP 1 0.4133858 0.3427208 270 N 20 0 J8-2
+TOP 2 0.4133858 0.4427208 270 N 24 1 J8-3
+TOP 3 0.4133858 0.5427208 270 N 27 0 J8-4
+TOP 4 0.4133858 0.6427208 270 N 25 0 J8-5
+TOP 5 0.4133858 0.7427208 270 N 17 0 J8-6
+TOP 6 0.4133858 0.8427208 270 N 19 0 J8-7
+TOP 7 0.4133858 0.9427208 270 N 18 0 J8-8
+TOP 8 0.4133858 1.0427208 270 N 23 0 J8-9
+TOP 9 0.4133858 1.1427208 270 N 22 11 J8-10
+#
+# CMP 4
+CMP 14 1.319 0.1005154 0 N J6 CONN_HEADER_2POS_0.100"_(2.54mm)_TH ;0=2,1=0.3378
+PRP Category 'Connectors, Interconnects'
+PRP ComponentLink1Description 'https://www.digikey.com/product-detail/en/samtec-inc/TSW-102-26-T-S/TSW-102-26-T-S-ND/6691583'
+PRP ComponentLink1URL 'https://www.digikey.com/product-detail/en/samtec-inc/TSW-102-26-T-S/TSW-102-26-T-S-ND/6691583'
+PRP Manufacturer 'Samtec Inc.'
+PRP Manufacturer_Part_Number 'TSW-102-26-T-S'
+PRP Operating_Temperature '-55°C ~ 105°C'
+PRP Packaging 'Bulk'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=0.22 (USD)'
+PRP Stock_1 '0'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'TSW-102-26-T-S-ND'
+PRP System 'Connector'
+TOP 0 1.269 0.1005154 0 N 23 1 J6-1
+TOP 1 1.369 0.1005154 0 N 22 13 J6-2
+#
+# CMP 5
+CMP 1 0.9886731 0.41 270 N J5 CONN_HEADER_10POS_DUAL_.05"_SMD ;0=1,1=0.3937
+PRP Category 'Connectors, Interconnects'
+PRP Manufacturer 'Samtec Inc.'
+PRP Manufacturer_Part_Number 'FTSH-105-01-F-DV-K'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Packaging 'Tube'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=2.9, 10=2.784, 100=2.32, 500=1.972, 1000=1.682, 5000=1.508 (USD)'
+PRP Stock_1 '30769'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM8796-ND'
+PRP System 'Connector'
+TOP 0 1.0686731 0.31 180 N 11 1 J5-1
+TOP 1 0.9086731 0.31 180 N 27 1 J5-2
+TOP 2 1.0686731 0.36 180 N 22 17 J5-3
+TOP 3 0.9086731 0.36 180 N 25 1 J5-4
+TOP 4 1.0686731 0.41 180 N 22 16 J5-5
+TOP 5 0.9086731 0.41 180 N 17 1 J5-6
+TOP 6 1.0686731 0.46 180 N 9 0 J5-7
+TOP 7 0.9086731 0.46 180 N 26 0 J5-8
+TOP 8 1.0686731 0.51 180 N 10 0 J5-9
+TOP 9 0.9086731 0.51 180 N 23 2 J5-10
+#
+# CMP 6
+CMP 11 1.635 0.6889764 270 N J3 CONN_HDR_2X10_MALE_2.54MM_SHR_SAMTEC_SMD ;0=1,1=0.4098
+PRP Category 'Connectors, Interconnects'
+PRP ComponentLink1Description 'https://www.digikey.com/product-detail/en/samtec-inc/HTST-110-01-L-DV/SAM10529-ND/6468733'
+PRP ComponentLink1URL 'https://www.digikey.com/product-detail/en/samtec-inc/HTST-110-01-L-DV/SAM10529-ND/6468733'
+PRP Manufacturer 'Samtec Inc.'
+PRP Manufacturer_Part_Number 'HTST-110-01-L-DV'
+PRP Operating_Temperature '-65°C ~ 125°C'
+PRP Packaging 'Tray'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=2.60 (USD)'
+PRP Stock_1 '118'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM10529-ND'
+PRP System 'Connector'
+PRP Voltage_-_Rated ''
+TOP 0 1.7700394 0.2389764 270 N 11 7 J3-1
+TOP 1 1.4999606 0.2389764 270 N 11 6 J3-2
+TOP 2 1.7700394 0.3389764 270 N 4 0 J3-3
+TOP 3 1.4999606 0.3389764 270 N 22 43 J3-4
+TOP 4 1.7700394 0.4389764 270 N 26 2 J3-5
+TOP 5 1.4999606 0.4389764 270 N 22 42 J3-6
+TOP 6 1.7700394 0.5389764 270 N 27 5 J3-7
+TOP 7 1.4999606 0.5389764 270 N 22 41 J3-8
+TOP 8 1.7700394 0.6389764 270 N 25 5 J3-9
+TOP 9 1.4999606 0.6389764 270 N 22 40 J3-10
+TOP 10 1.7700394 0.7389764 270 N 3 0 J3-11
+TOP 11 1.4999606 0.7389764 270 N 22 39 J3-12
+TOP 12 1.7700394 0.8389764 270 N 17 4 J3-13
+TOP 13 1.4999606 0.8389764 270 N 22 38 J3-14
+TOP 14 1.7700394 0.9389764 270 N 23 5 J3-15
+TOP 15 1.4999606 0.9389764 270 N 22 37 J3-16
+TOP 16 1.7700394 1.0389764 270 N 8 0 J3-17
+TOP 17 1.4999606 1.0389764 270 N 22 36 J3-18
+TOP 18 1.7700394 1.1389764 270 N 28 3 J3-19
+TOP 19 1.4999606 1.1389764 270 N 22 35 J3-20
+#
+# CMP 7
+CMP 6 0.6356275 1.2167315 180 N GND TESTPOINT_MINIATURE_SMD ;0=1,1=0.0591
+PRP Category 'Test and Measurement'
+PRP ComponentLink1Description 'https://www.digikey.com/product-detail/en/keystone-electronics/5015/36-5015CT-ND/278886'
+PRP ComponentLink1URL 'https://www.digikey.com/product-detail/en/keystone-electronics/5015/36-5015CT-ND/278886'
+PRP Manufacturer 'Keystone Electronics'
+PRP Manufacturer_Part_Number '5015'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '36-5015CT-ND'
+TOP 0 0.6356275 1.2167315 180 N 22 14 GND-1
+#
+# CMP 8
+CMP 4 0.8939995 1.1023622 270 N J2 CONN_HEADER_SUR_8POS_.8MM_VERT_SMT ;0=1,1=0.1102
+PRP Category 'Connectors, Interconnects'
+PRP ComponentLink1Description 'https://www.digikey.com/products/en/connectors-interconnects/rectangular-connectors-headers-male-pins/314?k=bm08bsur&k=&pkeyword=bm08bsur&sv=0&pv7=2&sf=0&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP ComponentLink1URL 'https://www.digikey.com/products/en/connectors-interconnects/rectangular-connectors-headers-male-pins/314?k=bm08bsur&k=&pkeyword=bm08bsur&sv=0&pv7=2&sf=0&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP Manufacturer 'JST Sales America Inc.'
+PRP Manufacturer_Part_Number 'BM08B-SURS-TF(LF)(SN)'
+PRP Operating_Temperature '-25°C ~ 85°C'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=0.73 (USD)'
+PRP Stock_1 '2227'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '455-3578-1-ND'
+PRP System 'Connector'
+PRP Voltage_-_Rated '30V'
+TOP 0 0.9215585 0.992126 270 N 16 0 J2-1
+TOP 1 0.9215585 1.0236221 270 N 22 25 J2-2
+TOP 2 0.9215585 1.0551181 270 N 15 0 J2-3
+TOP 3 0.9215585 1.0866142 270 N 22 24 J2-4
+TOP 4 0.9215585 1.1181103 270 N 14 0 J2-5
+TOP 5 0.9215585 1.1496063 270 N 22 23 J2-6
+TOP 6 0.9215585 1.1811024 270 N 13 0 J2-7
+TOP 7 0.9215585 1.2125985 270 N 12 0 J2-8
+TOP 8 0.8664404 0.9409449 270 N 22 22 J2-M1
+TOP 9 0.8664404 1.2637796 270 N 22 21 J2-M2
+#
+# CMP 9
+CMP 17 0.5231759 0.1181102 0 N U1 IC_GATE_AND_1CH_2-INP_5-TSOP ;0=1,1=0.0571
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'https://www.digikey.com/product-detail/en/on-semiconductor/MC74VHC1G09DTT1G/MC74VHC1G09DTT1GOSCT-ND/2120980'
+PRP ComponentLink1URL 'https://www.digikey.com/product-detail/en/on-semiconductor/MC74VHC1G09DTT1G/MC74VHC1G09DTT1GOSCT-ND/2120980'
+PRP ID 'OPEN DRAIN AND'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_Part_Number 'MC74VHC1G09DTT1G'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=0.34, 10=0.28, 100=0.1485, 500=0.09772, 1000=0.06645 (USD)'
+PRP Stock_1 '5436'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'MC74VHC1G09DTT1GOSCT-ND'
+TOP 0 0.4780972 0.1555118 180 N 20 5 U1-1
+TOP 1 0.4780972 0.1181102 180 N 20 4 U1-2
+TOP 2 0.4780972 0.0807086 180 N 22 46 U1-3
+TOP 3 0.5682546 0.0807086 0 N 30 2 U1-4
+TOP 4 0.5682546 0.1555118 0 N 29 5 U1-5
+#
+# CMP 10
+CMP 9 0.1656386 0.5304857 180 N R1 RES_SMD_68_OHM_1%_1/8W_0805 ;0=1,1=0.0276
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'https://www.digikey.com/products/en/resistors/chip-resistor-surface-mount/52?k=&pkeyword=&sv=0&pv2=3&sf=0&FV=fffc000d%2C1c0002%2C1f140000%2Cmu68+Ohms%7C2085%2Cffe00034%2Cffec1104%2Cc0001%2C14203b%2C2b80016&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP ComponentLink1URL 'https://www.digikey.com/products/en/resistors/chip-resistor-surface-mount/52?k=&pkeyword=&sv=0&pv2=3&sf=0&FV=fffc000d%2C1c0002%2C1f140000%2Cmu68+Ohms%7C2085%2Cffe00034%2Cffec1104%2Cc0001%2C14203b%2C2b80016&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0805FR-0768RL'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Power '1/8W'
+PRP Pricing_1 '1=0.1, 10=0.022, 100=0.0088, 1000=0.00396, 2500=0.00344 (USD)'
+PRP Stock_1 '9649084'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-68.0CRCT-ND'
+PRP Tolerance '±1%'
+PRP Value '68R'
+TOP 0 0.2016622 0.5304857 0 N 11 4 R1-1
+TOP 1 0.129615 0.5304857 180 N 29 3 R1-2
+#
+# CMP 11
+CMP 10 2.1744094 0.6889764 270 N J1 CONN_HDR_2X10_VERT_SHROUD_FTSH_1.27MM_SMT ;0=1,1=0.2189
+PRP Category 'Connectors, Interconnects'
+PRP ComponentLink1Description 'https://www.digikey.com/products/en/connectors-interconnects/rectangular-connectors-headers-male-pins/314?k=FTSH-110-01-L-DV-K&k=&pkeyword=FTSH-110-01-L-DV-K&sv=0&pv5=362515&sf=0&FV=-8%7C314%2C7%7C2&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP ComponentLink1URL 'https://www.digikey.com/products/en/connectors-interconnects/rectangular-connectors-headers-male-pins/314?k=FTSH-110-01-L-DV-K&k=&pkeyword=FTSH-110-01-L-DV-K&sv=0&pv5=362515&sf=0&FV=-8%7C314%2C7%7C2&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP Manufacturer 'Samtec Inc.'
+PRP Manufacturer_Part_Number 'FTSH-110-01-L-DV-K-TR'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=5.36 (USD)'
+PRP Stock_1 '73'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM13960CT-ND'
+PRP System 'Connector'
+PRP Voltage_-_Rated ''
+TOP 0 2.2545669 0.4639764 270 N 11 5 J1-1
+TOP 1 2.0942519 0.4639764 270 N 27 4 J1-2
+TOP 2 2.2545669 0.5139764 270 N 22 34 J1-3
+TOP 3 2.0942519 0.5139764 270 N 25 4 J1-4
+TOP 4 2.2545669 0.5639764 270 N 22 33 J1-5
+TOP 5 2.0942519 0.5639764 270 N 17 3 J1-6
+TOP 6 2.2545669 0.6139764 270 N 2 0 J1-7
+TOP 7 2.0942519 0.6139764 270 N 26 1 J1-8
+TOP 8 2.2545669 0.6639764 270 N 1 0 J1-9
+TOP 9 2.0942519 0.6639764 270 N 23 4 J1-10
+TOP 10 2.2545669 0.7139764 270 N 28 2 J1-11
+TOP 11 2.0942519 0.7139764 270 N 16 1 J1-12
+TOP 12 2.2545669 0.7639764 270 N 28 1 J1-13
+TOP 13 2.0942519 0.7639764 270 N 15 1 J1-14
+TOP 14 2.2545669 0.8139764 270 N 22 32 J1-15
+TOP 15 2.0942519 0.8139764 270 N 14 1 J1-16
+TOP 16 2.2545669 0.8639764 270 N 22 31 J1-17
+TOP 17 2.0942519 0.8639764 270 N 13 1 J1-18
+TOP 18 2.2545669 0.9139764 270 N 22 30 J1-19
+TOP 19 2.0942519 0.9139764 270 N 12 1 J1-20
+#
+# CMP 12
+CMP 16 0.1495778 0.4038506 0 N D1 DIODE_ZENER_5.1V_225MW_SOT23-3 ;0=1,1=0.0433
+PRP Category 'Circuit Protection'
+PRP ComponentLink1Description 'https://www.digikey.com/product-detail/en/on-semiconductor/BZX84C5V1LT3G/BZX84C5V1LT3GOSCT-ND/3462252'
+PRP ComponentLink1URL 'https://www.digikey.com/product-detail/en/on-semiconductor/BZX84C5V1LT3G/BZX84C5V1LT3GOSCT-ND/3462252'
+PRP ID '5.1V 6%'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_Part_Number 'BZX84C5V1LT3G'
+PRP Operating_Temperature '-65°C ~ 150°C (TJ)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1= 0.13 (USD)'
+PRP Stock_1 '21912'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'BZX84C5V1LT3GOSCT-ND'
+TOP 0 0.1121762 0.3662522 90 N 22 45 D1-1
+TOP 1 0.1869794 0.3662522 90 N 0 0 D1-2
+TOP 2 0.1495778 0.441449 270 N 29 4 D1-3
+#
+# CMP 13
+CMP 15 0.5980395 0.2740472 180 N D2 DIODE_SCHOTTKY_70V_70MA_SOD523 ;0=1,1=0.0276
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'https://www.digikey.com/product-detail/en/stmicroelectronics/BAS70KFILM/497-5695-1-ND/1299948'
+PRP ComponentLink1URL 'https://www.digikey.com/product-detail/en/stmicroelectronics/BAS70KFILM/497-5695-1-ND/1299948'
+PRP Current '70mA'
+PRP Manufacturer 'STMicroelectronics'
+PRP Manufacturer_Part_Number 'BAS70KFILM'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=0.28, 10=0.23, 100=0.122, 500=0.08028, 1000=0.05459 (USD)'
+PRP Stock_1 '20067'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '497-5695-1-ND'
+PRP Voltage '70V'
+TOP 0 0.5720552 0.2740472 180 N 24 6 D2-A
+TOP 1 0.6240238 0.2740472 0 N 21 3 D2-C
+#
+# CMP 14
+CMP 8 0.3803993 0.1110947 90 N R4 RES_SMD_100K_OHM_1%_1/16W_0402 ;0=1,1=0.0157
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'https://www.digikey.com/products/en/resistors/chip-resistor-surface-mount/52?k=RC0402FR-07100KL&k=&pkeyword=RC0402FR-07100KL&pv7=2&sf=0&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP ComponentLink1URL 'https://www.digikey.com/products/en/resistors/chip-resistor-surface-mount/52?k=RC0402FR-07100KL&k=&pkeyword=RC0402FR-07100KL&pv7=2&sf=0&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-07100KL'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Power '1/16W'
+PRP Pricing_1 '1=0.1, 10=0.014, 100=0.0056, 1000=0.00253, 2500=0.0022, 5000=0.00181 (USD)'
+PRP Stock_1 '16720425'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-100KLRCT-ND'
+PRP Tolerance '±1%'
+PRP Value '100K'
+TOP 0 0.3803993 0.1288112 270 N 20 3 R4-1
+TOP 1 0.3803993 0.0933782 90 N 22 29 R4-2
+#
+# CMP 15
+CMP 7 0.1574803 0.1574803 0 N M1 MOUNT_HOLE_3MM_8VIAS_THMOUNT_HOLE_3MM_TH ;0=2,1=0.0000
+PRP Category 'Mechanical'
+TOP 0 0.1574803 0.1574803 0 N 22 12 M1-1
+#
+# CMP 16
+CMP 7 2.2047244 1.2204724 0 N M3 MOUNT_HOLE_3MM_8VIAS_THMOUNT_HOLE_3MM_TH ;0=2,1=0.0000
+PRP Category 'Mechanical'
+TOP 0 2.2047244 1.2204724 0 N 22 8 M3-1
+#
+# CMP 17
+CMP 5 0.616939 0.6889764 270 N J4 CONN_HEADER_SH_10POS_TOP_1MM_TIN ;0=1,1=0.1181
+PRP Category 'Connectors, Interconnects'
+PRP ComponentLink1Description 'https://www.digikey.com/products/en/connectors-interconnects/rectangular-connectors-headers-male-pins/314?k=bm10b-srss&k=&pkeyword=bm10b-srss&pv1989=0&sf=0&FV=ffe0013a%2C1c0002&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP ComponentLink1URL 'https://www.digikey.com/products/en/connectors-interconnects/rectangular-connectors-headers-male-pins/314?k=bm10b-srss&k=&pkeyword=bm10b-srss&pv1989=0&sf=0&FV=ffe0013a%2C1c0002&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP Manufacturer 'JST Sales America Inc.'
+PRP Manufacturer_Part_Number 'BM10B-SRSS-TB(LF)(SN)'
+PRP Operating_Temperature '-25°C ~ 85°C'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=1.06, 10=9.32, 100=0.8037, 500=0.65758, 1000=0.58452 (USD)'
+PRP Stock_1 '62595'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '455-1796-1-ND'
+PRP System 'Connector'
+PRP Voltage_-_Rated '50V'
+TOP 0 0.6863287 0.5118111 90 N 11 3 J4-1
+TOP 1 0.6863287 0.5511812 90 N 20 2 J4-2
+TOP 2 0.6863287 0.5905513 90 N 24 4 J4-3
+TOP 3 0.6863287 0.6299214 90 N 27 3 J4-4
+TOP 4 0.6863287 0.6692915 90 N 25 3 J4-5
+TOP 5 0.6863287 0.7086615 90 N 17 2 J4-6
+TOP 6 0.6863287 0.7480316 90 N 19 1 J4-7
+TOP 7 0.6863287 0.7874017 90 N 18 1 J4-8
+TOP 8 0.6863287 0.8267718 90 N 23 3 J4-9
+TOP 9 0.6863287 0.8661419 90 N 22 26 J4-10
+TOP 10 0.5869193 0.46063 90 N 22 28 J4-M1
+TOP 11 0.5869193 0.917323 90 N 22 27 J4-M2
+#
+# CMP 18
+CMP 7 2.2047244 0.1574803 0 N M4 MOUNT_HOLE_3MM_8VIAS_THMOUNT_HOLE_3MM_TH ;0=2,1=0.0000
+PRP Category 'Mechanical'
+TOP 0 2.2047244 0.1574803 0 N 22 9 M4-1
+#
+# CMP 19
+CMP 7 0.1574803 1.2204724 0 N M2 MOUNT_HOLE_3MM_8VIAS_THMOUNT_HOLE_3MM_TH ;0=2,1=0.0000
+PRP Category 'Mechanical'
+TOP 0 0.1574803 1.2204724 0 N 22 10 M2-1
+#
+# CMP 20
+CMP 0 0.5133809 0.2210091 180 N C1 CAP_CER_0.1UF_10%_50V_X5R_0402 ;0=1,1=0.0220
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'https://www.digikey.com/products/en/capacitors/ceramic-capacitors/60?k=GRM155R61H104KE19D&k=&pkeyword=GRM155R61H104KE19D&pv7=2&sf=0&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP ComponentLink1URL 'https://www.digikey.com/products/en/capacitors/ceramic-capacitors/60?k=GRM155R61H104KE19D&k=&pkeyword=GRM155R61H104KE19D&pv7=2&sf=0&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP Manufacturer 'Murata Electronics North America'
+PRP Manufacturer_Part_Number 'GRM155R61H104KE19D'
+PRP Operating_Temperature '-55°C ~ 85°C'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=0.1, 10=0.065, 100=0.0292, 500=0.02082, 1000=0.01637, 2500=0.01488, 5000=0.01369 (USD)'
+PRP Stock_1 '1608921'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-11917-1-ND'
+PRP Tolerance '±10%'
+PRP Value '0.1uF'
+PRP Voltage_-_Rated '50V'
+TOP 0 0.5310974 0.2210091 0 N 29 2 C1-1
+TOP 1 0.4956644 0.2210091 180 N 22 15 C1-2
+#
+# CMP 21
+CMP 8 0.652394 0.1152991 90 N R3 RES_SMD_10K_OHM_1%_1/16W_0402 ;0=1,1=0.0157
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'https://www.digikey.com/products/en?keywords=311-10.0KLRCT-ND'
+PRP ComponentLink1URL 'https://www.digikey.com/products/en?keywords=311-10.0KLRCT-ND'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-0710KL'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Power '1/16W'
+PRP Pricing_1 '1=0.1, 10=0.014, 100=0.0056, 1000=0.00253, 2500=0.0022, 5000=0.00181 (USD)'
+PRP Stock_1 '37996194'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-10.0KLRCT-ND'
+PRP Tolerance '±1%'
+PRP Value '10K'
+TOP 0 0.652394 0.1330156 270 N 29 0 R3-1
+TOP 1 0.652394 0.0975826 90 N 30 0 R3-2
+#
+# CMP 22
+CMP 8 0.5201219 0.2807563 0 N R2 RES_SMD_10K_OHM_1%_1/16W_0402 ;0=1,1=0.0157
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'https://www.digikey.com/products/en?keywords=311-10.0KLRCT-ND'
+PRP ComponentLink1URL 'https://www.digikey.com/products/en?keywords=311-10.0KLRCT-ND'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-0710KL'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Power '1/16W'
+PRP Pricing_1 '1=0.1, 10=0.014, 100=0.0056, 1000=0.00253, 2500=0.0022, 5000=0.00181 (USD)'
+PRP Stock_1 '37996194'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-10.0KLRCT-ND'
+PRP Tolerance '±1%'
+PRP Value '10K'
+TOP 0 0.5024054 0.2807563 180 N 29 1 R2-1
+TOP 1 0.5378384 0.2807563 0 N 24 2 R2-2
+#
+# CMP 23
+CMP 3 0.16 0.7597482 270 N J7 CONN_HEADER_SH_6POS_TOP_1MM_TIN ;0=1,1=0.1713
+PRP Category 'Connectors, Interconnects'
+PRP ComponentLink1Description 'https://www.digikey.com/products/en/connectors-interconnects/rectangular-connectors-headers-male-pins/314?k=bm06b-srss&k=&pkeyword=bm06b-srss&sv=0&pv5=15518&sf=0&FV=1c0002%2Cffe0013a%2C1f140000&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP ComponentLink1URL 'https://www.digikey.com/products/en/connectors-interconnects/rectangular-connectors-headers-male-pins/314?k=bm06b-srss&k=&pkeyword=bm06b-srss&sv=0&pv5=15518&sf=0&FV=1c0002%2Cffe0013a%2C1f140000&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP Manufacturer 'JST Sales America Inc.'
+PRP Manufacturer_Part_Number 'BM06B-SRSS-TB(LF)(SN)'
+PRP Operating_Temperature '-25°C ~ 85°C'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=0.76, 10=0.672, 100=0.5797, 500=0.47428 (USD)'
+PRP Stock_1 '72375'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '455-2875-1-ND'
+PRP System 'Connector'
+PRP Voltage_-_Rated '50V'
+TOP 0 0.2298819 0.661323 270 N 11 2 J7-1
+TOP 1 0.2298819 0.7006931 270 N 20 1 J7-2
+TOP 2 0.2298819 0.7400632 270 N 24 3 J7-3
+TOP 3 0.2298819 0.7794332 270 N 27 2 J7-4
+TOP 4 0.2298819 0.8188033 270 N 25 2 J7-5
+TOP 5 0.2298819 0.8581734 270 N 22 20 J7-6
+TOP 6 0.1304724 0.6101419 270 N 22 18 J7-M1
+TOP 7 0.1304724 0.9093545 270 N 22 19 J7-M2
+#
+# CMP 24
+CMP 12 1.175 0.9 270 N J9 CONN_HEADER_6POS_0.100"_(2.54mm)_SMD ;0=1,1=0.3300
+PRP Category 'Connectors, Interconnects'
+PRP ComponentLink1Description 'https://www.digikey.com/products/en/connectors-interconnects/rectangular-connectors-headers-male-pins/314?k=&pkeyword=&sv=0&pv1792=64614&sf=1&FV=28%7C353507%2C69%7C409393%2C88%7C249730%2C90%7C39665%2C512%7C371353%2C1790%7C9726%2C1791%7C350796%2C1989%7C0%2C2011%7C406666%2C2021%7C417859%2C-8%7C314%2C-1%7C612%2C7%7C2%2C2025%7C15230&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP ComponentLink1URL 'https://www.digikey.com/products/en/connectors-interconnects/rectangular-connectors-headers-male-pins/314?k=&pkeyword=&sv=0&pv1792=64614&sf=1&FV=28%7C353507%2C69%7C409393%2C88%7C249730%2C90%7C39665%2C512%7C371353%2C1790%7C9726%2C1791%7C350796%2C1989%7C0%2C2011%7C406666%2C2021%7C417859%2C-8%7C314%2C-1%7C612%2C7%7C2%2C2025%7C15230&quantity=&ColumnSort=0&page=1&pageSize=25'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_Part_Number 'TSM-106-01-L-SV-P-TR'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=1.57 (USD)'
+PRP Stock_1 '78'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM14846CT-ND'
+PRP System 'Connector'
+TOP 0 1.2325 1.15 270 N 22 44 J9-1
+TOP 1 1.1175 1.05 270 N 7 0 J9-2
+TOP 2 1.2325 0.95 270 N 5 0 J9-3
+TOP 3 1.1175 0.85 270 N 21 1 J9-4
+TOP 4 1.2325 0.75 270 N 30 1 J9-5
+TOP 5 1.1175 0.65 270 N 6 0 J9-6
+#
