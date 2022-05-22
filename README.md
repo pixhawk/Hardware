@@ -56,9 +56,9 @@ Version | Year | Lead Product | CPU | Other
 [FMUv2](FMUv2/README.md) | 2013 | Pixhawk 1 | 168 MHz M4 | Single board with STM32427VI processor.
 [FMUv3](FMUv3_REV_D/README.md) | 2015 | Pixhawk 2 | 168 MHz M4 | Redundant sensors. Identical to FMUv2, but usable flash doubled to 2MB.
 [FMUv4](FMUv4/README.md) | 2015 | Pixracer | 168 MHz M4 | Increased RAM. Faster CPU. More serial ports. No IO processor.
-FMUv4X | 2017 | Pixhawk 3 Pro | 168 MHz M4 | Slightly increased RAM. More serial ports. IO processor. Redundant sensors.
-[FMUv5](FMUv5/README.md) | 2018 | Pixhawk 4 | 200 MHz M7 | New processor (F7). Much faster. More RAM. More CAN busses. Much more configurable.<br>> **Note** Minimum specification provided (pinout info, but no schematics).
-FMUv5X | 2019 | Pixhawk 5X | 200 MHz M7 | Temp-calibrated, redundant sensors.
+FMUv4X | 2017 | Pixhawk 3 Pro | 180 MHz M4 | Slightly increased RAM. More serial ports. IO processor. Redundant sensors.
+[FMUv5](FMUv5/README.md) | 2018 | Pixhawk 4 | 216 MHz M7 | New processor (F7). Much faster. More RAM. More CAN busses. Much more configurable.<br>> **Note** Minimum specification provided (pinout info, but no schematics).
+FMUv5X | 2019 | Pixhawk 5X | 216 MHz M7 | Temp-calibrated, redundant sensors.
 
 
 > **Note** Products based on Pixhawk designs are listed here: [PX4 User Guide > Pixhawk Series]( https://docs.px4.io/master/en/flight_controller/pixhawk_series.html#pixhawk-series).
